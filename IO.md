@@ -1,3 +1,5 @@
-# C input/output function
+##C input/output function
 
-## gets() fgets()
+***
+
+#### gets() fgets()
