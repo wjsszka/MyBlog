@@ -1,3 +1,3 @@
 # MyBlog
 
-#### about C C# or something else
+#### about C 
