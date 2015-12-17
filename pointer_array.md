@@ -1,4 +1,4 @@
-#### C语言中的指针和数组
+#### C pointer & array
 
 `
 int mango[100];
