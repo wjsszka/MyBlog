@@ -50,7 +50,7 @@ build-in namespace
 	def greeting_conf(prefix):
         def greeting(name):
         	print prefix, name
-    return greeting
+        return greeting
 
 	mGreeting = greeting_conf("Good Morning")      
 
@@ -62,7 +62,7 @@ build-in namespace
 	def greeting_conf(prefix):
     	def greeting(name):
         	print prefix, name
-    return greeting
+    	return greeting
 
 	mGreeting = greeting_conf("Good Morning")      
 	print "function name is:", mGreeting.__name__
