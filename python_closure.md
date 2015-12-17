@@ -1,6 +1,6 @@
 #### python closure
 
-closure from lexical closure
+closure == lexical closure
 
 ###### namespace
 
