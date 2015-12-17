@@ -48,8 +48,8 @@ build-in namespace
 	aGreeting("Will")
 ***
 	def greeting_conf(prefix):
-    def greeting(name):
-        print prefix, name
+        def greeting(name):
+        	print prefix, name
     return greeting
 
 	mGreeting = greeting_conf("Good Morning")      
@@ -60,8 +60,8 @@ build-in namespace
 	print mGreeting.__closure__[0].cell_contents
 ***
 	def greeting_conf(prefix):
-    def greeting(name):
-        print prefix, name
+    	def greeting(name):
+        	print prefix, name
     return greeting
 
 	mGreeting = greeting_conf("Good Morning")      
