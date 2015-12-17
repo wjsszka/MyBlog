@@ -1,3 +1,3 @@
 # MyBlog
 
-#### about C 
+#### about C python
