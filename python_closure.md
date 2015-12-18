@@ -1,6 +1,6 @@
 #### python closure
 
-closure == lexical closure
+closure == lexical	as-first-class-function
 
 ###### namespace
 
